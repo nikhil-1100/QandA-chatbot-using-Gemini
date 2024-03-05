@@ -1,0 +1,52 @@
+{
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "D:\\ProgramFile\\pkgs\\expat-2.5.0-hd77b12b_0",
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/libexpat.dll",
+    "Library/bin/xmlwf.exe",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.5.0/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.5.0/expat-config.cmake",
+    "Library/lib/cmake/expat-2.5.0/expat-release.cmake",
+    "Library/lib/cmake/expat-2.5.0/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog",
+    "Library/share/man/man1/xmlwf.1",
+    ".nonadmin"
+  ],
+  "fn": "expat-2.5.0-hd77b12b_0.conda",
+  "legacy_bz2_md5": "5e7da8f3ad8b0c31c45a16b93c83cfd7",
+  "legacy_bz2_size": 330697,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "D:\\ProgramFile\\pkgs\\expat-2.5.0-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "45263dbcf5d6e68b44ee728bb1e81a95",
+  "name": "expat",
+  "package_tarball_full_path": "D:\\ProgramFile\\pkgs\\expat-2.5.0-hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fc769ebd107d4ebf05766549b443d00d1db450aa6a2710f9e072a3b359f2d0a0",
+  "size": 230455,
+  "subdir": "win-64",
+  "timestamp": 1693497491435,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/expat-2.5.0-hd77b12b_0.conda",
+  "version": "2.5.0"
+}

@@ -1,0 +1,13 @@
+prefix=E:/lang_chain/Gemini/qa/venv/Library
+exec_prefix=E:/lang_chain/Gemini/qa/venv/Library
+libdir=E:/lang_chain/Gemini/qa/venv/Library/lib
+sharedlibdir=E:/lang_chain/Gemini/qa/venv/Library/lib
+includedir=E:/lang_chain/Gemini/qa/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
